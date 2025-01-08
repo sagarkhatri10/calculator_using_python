@@ -29,4 +29,4 @@ while True:
         print("Exiting the calculator.")
         break
     
-    print(f"The result is {calculator(num)} \n \n")
+    print(f"The result is: {calculator(num)} \n \n")
